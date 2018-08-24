@@ -1,2 +1,2 @@
 def test_func():
-    print 'Called test func v1'
+    print 'Called test func v2'
